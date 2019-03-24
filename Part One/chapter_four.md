@@ -1,4 +1,4 @@
-## Canton 4: weda
+## Chapter 4: weda
 
   As the days passed by at roughly the same pace as planets rotating around a star, Wenjie did her best to try and contain her excitement at possibly being able to do her job. The one she was trained for. The one that she'd been frozen for over a hundred years for. Actually Greeting an alien species to the galactic pantomime.
 
