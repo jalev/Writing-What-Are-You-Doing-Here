@@ -16,3 +16,4 @@
   - [Chapter 13: Snap](part_one/chapter_013.md)
   - [Chapter 14: Escape](part_one/chapter_014.md)
 - [Notes](notes/README.md)
+  - [Misc](notes/README.md)
