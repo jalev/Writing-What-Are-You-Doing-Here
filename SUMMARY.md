@@ -1,0 +1,18 @@
+# Summary
+
+- [Part One](part_one/README.md)
+  - [Chapter 1: Unexpected Visitor](part_one/chapter_001.md)
+  - [Chapter 2: Now that we're here...](part_one/chapter_002.md)
+  - [Chapter 3: Well, now what do we do?](part_one/chapter_003.md)
+  - [Chapter 4: weda](part_one/chapter_004.md)
+  - [Chapter 5: Ah I see the train is going directly off the rails now](part_one/chapter_005.md)
+  - [Chapter 6: The Crowd](part_one/chapter_006.md)
+  - [Chapter 7: Wenjie Wakes Up](part_one/chapter_007.md)
+  - [Chapter 8: Wine and Dine](part_one/chapter_008.md)
+  - [Chapter 9: Twohorn](part_one/chapter_009.md)
+  - [Chapter 10: Politicking](part_one/chapter_010.md)
+  - [Chapter 11: Commitment](part_one/chapter_011.md)
+  - [Chapter 12: Interlude; Bounty](part_one/chapter_012.md)
+  - [Chapter 13: Snap](part_one/chapter_013.md)
+  - [Chapter 14: Escape](part_one/chapter_014.md)
+- [Notes](notes/README.md)
