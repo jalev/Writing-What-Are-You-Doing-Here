@@ -1,24 +1,22 @@
-The two Xeno fell into uncharacteristic silence when the radio was switched off. It'd been repeating the same message about the attempted assassination of Bountiful Fields that the Sticks and Stones twins mentioned. Whoever this Xeno was, they were apparently important enough to make these two clowns stop chittering like a pair of songbirds long enough for Wenjie to think.
+The two Xeno fell into uncharacteristic silence when the radio was switched off. It'd been repeating the same message about the attempted assassination of Bountiful Fields that the Sticks and Stones twins had mentioned. Whoever this Xeno was, they were apparently important enough to make these two clowns stop chittering like a pair of songbirds long enough for Wenjie to think, which in turn, gave her brain to catch up with her body, who had some concerns that needed addressing. 
 
-The lapse in conversation gave Wenjie's brain to catch up with her body, who had some concerns that needed addressing. So instead of trying to chip away at the Xeno's wall of silence with pointed questions pulled out from her arsenal of blissful ignorance, she instead closed her eyes. After a few seconds of making sure she was secure, she took three slow, deep breaths, and switched off into her own blackness. It was followed a moment later with a thought to Ruslan.
+So instead of trying to chip away at the Xeno's wall of silence with pointed questions pulled out from her arsenal of blissful ignorance, Wenjie instead closed her eyes. After a few seconds of making sure she was secure, she took three slow, deep breaths, and switched off into her own blackness. It was followed a moment later with a thought to Ruslan.
  
 '_Can you keep an ear on things? Wake me up if anything bad happens_,' the sleepiness she felt crawled along the thought-connection, which was met by a worried emotional gesture from Ruslan.
 
-'_I understand. But perhaps you should define what_ 'Bad' _means in this context? We are in a vehicle with Shk who don't want to harm us_,' Ruslan thought back, concerned but thrilled at the sudden responsibility.
+_'I understand. But perhaps you should define what_ "Bad" _means in this context? We are in a vehicle with Shk who don't want to harm us,'_ Ruslan thought back, concerned but thrilled at the sudden responsibility.
 
-'_Oh, I don't care, just use your better judgement_.' Ruslan could _feel_ the exhaustion in the thought.
+_'Oh, I don't care, just use your better judgement.'_ Ruslan could _feel_ the exhaustion in the thought.
 
-'_I understand, but I would_-' the thought-connection terminated before Ruslan could finish. It took pinging the health endpoints of the Vampsuit- which was the name of the spacesuit gave itself and refused to answer to anything else- to find out Wenjie had fallen into what was called a '_comatose state_'. Ruslan consulted the Vampsuit documentation on the matter, and read it as '_could be a bad thing_'. Vampsuit, in the dry, black humour only a highly specialised spacesuit might have, diagnosed her with '_as healed as she is going to get_.'
+'_I understand, but I would_-' but the thought-connection terminated before Ruslan could finish. It took pinging the health endpoints of the Vampsuit- which was the name of the spacesuit gave itself and refused to answer to anything else- to find out Wenjie had fallen into what was called a '_comatose state_'. Ruslan consulted the Vampsuit documentation on the matter, and read the state as '_could be a bad thing_'. Vampsuit, in the dry, black humour only a highly specialised spacesuit might have, diagnosed her with '_as healed as she is going to get_.'
 
 Ruslan tried not to be annoyed by being so rudely cut off. What had happened to the Wenjie that had spent all those years in the small corners of time raising them from micro-code? _That_ Wenjie had seemed level-headed, cool, and completely detached from the apparent miseries her body and mind had been subjected to. _This_ Wenjie had... _some_ of those characteristics, but it was hard to see when uncertainty clouded it. 
 
-Perhaps it had something to do with her body? Ruslan pondered this with the the Vampsuit, which gave a very non-committal answer on the subject. As far as that murky mind was concerned, she wasn't dead, but she wasn't much alive either, and perhaps that _Emergency Measures_ would be required. Ruslan tried to tease out what that ominous statement meant, but was met with a damning silence, which only made them fret more.
+Perhaps it had something to do with her body? Ruslan pondered this with the the Vampsuit, which gave a very non-committal answer on the subject. As far as that murky mind was concerned, she wasn't dead, but she wasn't much alive either, and perhaps _Emergency Measures_ would be required. Ruslan tried to tease out what that ominous statement meant, but was met with a damning silence, which only made them fret more.
 
-Ruslan forced themselves not to dwell on it and switched contexts. Their sense of time went up several magnitudes and stopped in Wenjie-Time, or, Meat-Realtime as the Vampsuit called it. It was as good a place as any to waste time, waiting to react to input. Which, as they thought longer about it, made them especially anxious. They and Wenjie had done nothing but react to events as they came. There just wasn't enough... _context_ to make any good decisions. But what could be done about it, other than to continue studiously gathering information? And also asking Wenjie for Vampsuit visual permissions.
+Ruslan forced themselves not to dwell on it by switching contexts. Their sense of time went up several magnitudes and stopped in Wenjie-Time, or, Meat-Realtime as the Vampsuit called it. It was as good a place as any to idle, waiting to react to input. Which, as they thought longer about it, made them especially anxious. They and Wenjie had done nothing but react to events as they came. There just wasn't enough _context_ to make any good decisions. But what could be done about it, other than to continue studiously gathering information? And- Ruslan was definitely keen on this one- asking Wenjie for Vampsuit visual permissions.
 
-The audio-processor began to take up some computational-cycles, and Ruslan, who had rambled down a corridor of thought- and was well and thoroughly lost- tripped back into their reality through a wall of rhetorical questions. They hadn't managed to come up with a solution to anything, and had only managed to tangle themselves into a bigger ball of anxiety.
-
-The audio-processor consuming cycles meant that the Vampsuit microphone was hearing Gemstone and Ringfinger speak. Ruslan dropped down magnitudes of time, and settled into the context of the audio-processor. If anything, the two Shk would at least let them idle to untangle their knots.
+After some time, the audio-processor began to take up some computational-cycles, and Ruslan, who had rambled down a corridor of thought- and was well and thoroughly lost- tripped back into their reality through a wall of rhetorical questions. They hadn't come up with a solution to anything, and had only managed to tangle themselves into a bigger ball of anxiety. The audio-processor consuming cycles meant that the Vampsuit microphone was hearing Gemstone and Ringfinger speak. Ruslan dropped down magnitudes of time, and settled into the context of the audio-processor. If anything, the two Shk would at least give them the opportunity to untangle their knots.
 
 "What are you going to do when you get back to the city?" Gemstone asked. Ruslan got a feedback cycle from the Persistent Inflection/Sentiment Scrutiniser- PISS- that although she tried to make it sound like she was bored, there were hints of anxiety being covered up by the bravado.
 
@@ -28,23 +26,25 @@ The audio-processor consuming cycles meant that the Vampsuit microphone was hear
 
 "So? Spend it sleeping or something. I don't care. I'm driving."
 
-Some connections untangled themselves in Ruslan's eager mesh. The cultural-dictionary for Humans suggested they were on a '_Road Trip_'. Excitement began to bubble up at the potential of new experiences.
+Some connections untangled themselves in Ruslan's mesh, letting a thought bubble up. The cultural-dictionary for Humans- rarely used but eager to be useful- suggested they were on a '_Road Trip_', and opened up on a litany. Ruslan began to bubble up with excitement at the potential of new experiences.
 
 "Sleep? Were you _listening_ to what the radio said? Bounty has been _stabbed_, Ringfinger. Though I don't doubt she'll make it through this, think of the _chaos_ created in her absence!" Gemstone exclaimed, and the PISS unmasked the subtle worry in her voice.
 
-Ruslan idly updated their list of names, creating a connection between Bountiful and Gemstone, and Bounty with Bountiful. An idea bubbled to the surface, pushing past the layers of mush that made up Ruslan, bursting through the skin of themselves like a swimmer gaping for air.
+Ruslan idly updated their list of names, creating a connection between Bountiful and Gemstone, and Bounty with Bountiful. An idea surfaced, pushing past the layers of mush that made up Ruslan, tearing through the skin of themselves like a swimmer gaping for air.
 
-Wouldn't it be incredible if there was something that generated context. Context. Context _generator_. Something automated that could keep track of the relationships between facts and what was said. It could hook into the audio-processor and PISS. And perhaps, with enough context, one could ask questions and get a probability likelihood of something _else_ happening? Wasn't everything just a graphing problem after all?
+Wouldn't it be incredible if there was something that generated context. Context. Context _generator_. Something automated that could keep track of the relationships between what was known and what was said. It could hook into the audio-processor and PISS, and perhaps, with enough context, you might ask questions and get a probability likelihood of something else happening.
 
-Ruslan metaphorically grabbed the idea, increased their brain-computational share, and dived deeper into the magnitudes of time. They opened their virtual development environment, and began to play. About 40 milliseconds later- which passed like days- a simple tree had been formed, containing only a few statements connected by weak grey branches. It looked like the beginnings of a bonsai-tree- if someone had tried to design one by description like Ruslan had just done.
+Wasn't everything just a graphing problem after all?
 
-Satisfied with their handiwork, Ruslan spent a little longer connecting the context-generator to the audio-processor, and then de-prioritised themselves. Time began to move up the magnitudes, back into the time-space of the audio-processor.
+Ruslan metaphorically grabbed the idea, increased their brain-computational share, and dived deeper into the magnitudes of time. They opened their virtual development environment and began to play. About 40 milliseconds later- which passed like days- a simple tree had been formed containing only a small canopy of statements connected by weak grey branches. It looked like the beginnings of a bonsai-tree- if someone had tried to design one by description.
+
+Satisfied with their handiwork, Ruslan spent a little longer connecting the context-generator to the audio-processor, and then played back all audio logs available to them. The context-generator glowed as it was fed. Once this process was over, Ruslan de-prioritised themselves. Time began to move up the magnitudes, back into the time-space of the audio-processor.
 
 "My heart bleeds for you," Ringfinger said.
 
 "You could at least show some sympathy to my plight you reprobate. Have you really never had someone you cared for hurt before?"
 
-There was a long pause, after which Ringfinger sighed again. Potential facts slid into the Context-Generator as it lit up. They crept up into Ruslan's thought-space, begging for approval. 
+There was a long pause, after which Ringfinger sighed again. Potential facts slid into the context-generator as it lit up, the program creeping up into Ruslan's thought-space, begging for attention.
 
 _'Ringfinger has someone they care about.'_
 
@@ -52,7 +52,7 @@ _'Gemstone cares about Bountiful Fields.'_
 
 _'Gemstone detests Ringfinger.'_
 
-It didn't take a context-generator to realise any of these things, but Ruslan approved them all anyway. The power of this program would be when there were enough linked facts to ask it questions. Perhaps after this road-trip, some mystery of Shk Culture might be revealed. Wenjie would definitely praise them for that.
+It didn't take a context-generator to realise any of these things, but Ruslan approved the statements anyway. The power of this program would be when there were enough linked facts to ask it questions, and it wouldn't do to be too peculiar about the content this early. They even allowed themselves the hope that perhaps after this road-trip, some mystery of Shk Culture might be revealed. Wenjie would definitely praise them for cracking that problem.
 
 "Right. Ok. Well. What was the question again?" Ringfinger said.
 
@@ -72,9 +72,9 @@ It didn't take a context-generator to realise any of these things, but Ruslan ap
 
 "Thanks," Ringfinger said hollowly.
 
-While all this was happening, the Context-Generator had presented some more facts for Ruslan to approve. They were ecstatic to learn the fact there existed a substantial class-divide between these two Shk, by wealth and/or some social distinction. Ruslan had already puzzled this out based on conversations in the space-ship, but it was still very promising for the context-generator to suss it out.
+While all this was happening, the context-generator had presented some more facts for Ruslan to approve. They were ecstatic to learn the fact there existed a substantial class-divide between these two Shk, by wealth and/or some social distinction. Ruslan had already puzzled this out based on conversations in the space-ship, but it was still very promising for the context-generator to suss it out. It meant that perhaps they had been right to create this program.
 
-"Still, you've only been in the Military-Wing for what, ten rotations? And you're not exactly a budding sprig by my estimations. You must have been doing _something_ before enlisting. Perhaps some studies, or a trade, or something of that nature," Gemstone pushed. The context-generator had updated to say that Gemstone possibly loved to hear the sound of her own voice. Ruslan dismissed it.
+"Still, you've only been in the Military-Wing for what, ten rotations? And you're not exactly a budding sprig by my estimations. You must have been doing _something_ before enlisting. Perhaps some studies, or a trade, or something of that nature," Gemstone pushed. The context-generator had updated to say that Gemstone possibly loved to hear the sound of her own voice. Ruslan dismissed it, being picky.
 
 "I did a little bit of everything."
 
@@ -94,7 +94,7 @@ While all this was happening, the Context-Generator had presented some more fact
 
 "Well I'm glad I delivered," Ringfinger said coldly.
 
-"Oh come on now Ringfinger, don't be so serious. There's only so much one can expect from a... _commoner_. One who happened to trade in everything, but be a master in none of them. I must admit, I am just a bit curious as to how you found your _calling_ as a mechanic, seeing as where you found your career ending."
+"Oh come on now Ringfinger, don't be so serious. There's only so much one can expect from a _commoner_. One who happened to trade in everything, but be a master in none of them. I must admit, I am just a bit curious as to how you found your _calling_ as a mechanic, seeing as where you found your career ending."
 
 "I _just_ so happened to _enjoy_ fixing things," Ringfinger hissed. "When you live in the slums, you don't have much of a choice about what your profession is. You do the job in front of you, and if you're good at it, word gets around. We all rely on each other in there, because ain't no one else coming to help us that's for damn sure."
 
@@ -108,9 +108,9 @@ While all this was happening, the Context-Generator had presented some more fact
 
 "Purge?"
 
-"A slip of the tongue."
+"A slip of the tongue. They're not important."
 
-"Well then Ringfinger I thought I was about to hear something noble. I'm a little disappointed."
+"Really now. Well then Ringfinger I thought I was about to hear something noble. I'm a little disappointed."
 
 "I don't need your approval for my actions."
 
@@ -178,11 +178,11 @@ While all this was happening, the Context-Generator had presented some more fact
 
 Ruslan decided to detach themselves from the audio-processor as the conversation drifted into deeper political arguments, and the context-generator lit up like someone with a lazy finger holding the rapid-fire trigger down on an ICU issue las-pistol.
 
-Up until this point, Ruslan recalled all mention of Politics by the Shk being especially muted. Even the Context-Generator didn't get much information on the matter out of the entire audio recordings available to them. There was a lot of information about the _processes_, but not how things _really_ worked. And though Wenjie had taught them about Politics, the level of vitriol between the two Shk made them particularly uncomfortable. The way that Wenjie had described things made it appear as though two or more parties just talked at each other until a compromise was reached.
+Up until this point, Ruslan recalled all mention of Politics by the Shk being especially muted. Even the context-generator didn't get much information on the matter out of the entire audio recordings available to them. There was a lot of information about the _processes_, but not how things _really_ worked. And though Wenjie had taught them about Politics- about how two or more parties just discussed things until consensus- the level of vitriol between Ringfinger and Gemstone made Ruslan start pondering that perhaps they were taught the textual definition of politics, but not real-world examples.
 
-Ruslan- putting on their literally-metaphorical intelligence officer hat- dropped a magnitude into time to begin researching politics. After several micro-hours, they had come to the rather reductionist point of view that Biologicals were just too confusing to understand, and that expending so much energy over what amounted to a consensus problem seemed especially wasteful.
+Ruslan- putting on their literally-metaphorical intelligence officer hat- dropped a magnitude into time to begin researching the Politics of humans. After several micro-hours, they had come to the rather reductionist point of view that Biologicals were just too confusing to understand, and that expending so much energy over what amounted to a consensus problem seemed especially wasteful. But- at least Ringfinger and Gemstone's animosity towards each other started to make more sense now.
 
-The audio-processor had been processing-idle for 60-real-minutes before Gemstone spoke up.
+Ruslan bubbled up magnitudes of time, and attached themselves back onto the audio-processor. It was 60-real-minutes of process-idle before Gemstone spoke up.
 
 "So you joined the Military-Wing to try and change things?"
 
@@ -200,27 +200,25 @@ The audio-processor had been processing-idle for 60-real-minutes before Gemstone
 
 "Twohorn is one of the most stable Shk in a position of power I've had the pleasure of working with," Ringfinger said levelly. "It's because of them that I even managed to get to where I got in the first place. I _won't_ have you talk about them like they're some sort of doddering fool gliding to the grave."
 
-This set Gemstone off, and the two went straight back into arguing. Ruslan tuned out again, keeping their attention on the Context-Generator for anything interesting. Quite a lot of facts came through about Twohorn and their record, which helped fill out some of the gaps about who the General actually was.
+This set Gemstone off, and the two Shk went straight back into arguing. Ruslan tuned out again, keeping their attention on the context-generator for anything interesting as facts trickled in about Twohorn. They were an outcast and a publicly popular one at that. The General's accomplishments created a large list that Ruslan had no context for understanding, but was impressed by nonetheless, given that their own list was only five items long. 
 
-It was also during the argument that the audio-processor experienced a slight uptick in processing requirements. Ruslan ignored this for some time, thinking it was to do with the arguments these two were having. But when the processing-requirements continued to increase, they decided to focus in on it.
+It was also during the argument and the organising of Twohorn facts that the audio-processor experienced a slight uptick in processing requirements. Ruslan ignored this for some time, thinking it was to do with the arguments these two were having. But when the processing-requirements continued to increase, they decided to focus in on it.
 
 The car was now in a place with a lot of noise. Quite a lot of it could be filtered out as environmental, but quite a lot more were Shk voices. Enough to make Ruslan believe that the car was surrounded. The curious thing though, was that Ringfinger and Gemstone had stopped talking again. It was many minutes more into the drive of Shk voices, that Gemstone spoke again.
 
-"So, what do you intend to do once you have dropped me and Wenjie off at Headquarters?" Gemstone said. There was a... longer than usual pause before Ringfinger replied.
+"So, what do you intend to do once you have deposited me and Wenjie off at Headquarters?" Gemstone said. There was a... longer than usual pause before Ringfinger replied.
 
-"I'll probably go back to being a mechanic," Ringfinger said. It was as they spoke this that the PISS recorded the analysis that he was lying. Ruslan noticed this, and concentrated on it. The statement itself seemed innocent enough. But why would Ringfinger lie about it? Was there perhaps something wrong with the PISS?
+"I'll probably go back to being a mechanic," Ringfinger said. The PISS recorded the analysis that he was lying. Ruslan noticed this, and concentrated on it. The statement itself seemed innocent enough. But why would Ringfinger lie about it? Was there perhaps something wrong with the PISS?
 
-Ruslan detached themselves from the audio-processor and focused their attention on the Context-Cloud. The cloud had grown into a gigantic thunderstorm of connections. The light of connectivity flickered through the roiling mass. Ruslan decided that it was time to ask something of the Context-Generator.
+Ruslan detached themselves from the audio-processor and focused their attention on the context-generator. The cloud of facts had grown into a gigantic thunderstorm of connections. The light of connectivity flickered through the roiling mass. Ruslan decided that it was time to ask something of the program. Perhaps something useful might come out of it.
 
 'Why is Ringfinger lying about going back to being a mechanic?' Ruslan asked of the cloud. Light danced like a storm. It came back with an answer, one which scared Ruslan as they processed its meaning.
 
-_Ringfinger as a quasi anti-parliamentarian has sufficient reason to not go to the Council of Queens. Doing so would likely increase the group's political advantage (probability of certainty: p≤0.03, α=0.05)._
+_Ringfinger, as a quasi anti-parliamentarian, has sufficient reason to not go to the Council of Queens. Doing so would likely increase the group's political advantage (probability of certainty: p≤0.03, α=0.05). There is a higher than average likelihood that he will go to an anti-parliamentarian stronghold instead (probability of certainty: p≤0.07, α=0.1)_
 
-If this was the probable route Ringfinger was taking? Why didn't Gemstone see this? Why wasn't she taking control of the situation? Gemstone certainly had the brains and the muscle to do both- as Wenjie's visual of the Shk had shown.
+If this was the probable route Ringfinger was taking, why didn't Gemstone see it? Why wasn't she taking control of the situation? Gemstone certainly had the brains and the muscle to do both- as Wenjie's visual of the Shk had shown.
 
-Ruslan made a snap-decision. This seemed like one of those '_better judgement_' cases that Wenjie was talking about. Their first attempt at waking her subconscious proved futile. So Ruslan created a script and set it to work to constantly prod her at an increasing interval.
-
-With this taken care of, Ruslan focused in on the audio-processor. There was quite a lot more silence, before it suddenly screeched. Gemstone hissed loudly.
+This seemed like one of those '_better judgement_' cases that Wenjie was talking about. Ruslan's first attempt at waking her subconscious proved futile. So they created a script and set it to work to constantly prod her at an increasing interval. With this taken care of, they focused in on the audio-processor. There was quite a lot more silence, before it suddenly screeched. Gemstone hissed loudly.
 
 "Why is that Shk standing in the middle of the road like that?" Gemstone complained.
 
@@ -240,7 +238,7 @@ The audio-processor followed Ringfinger's breath as it fell into the distance. E
 
 There was the sound of someone else approaching the two Shk, followed by what sounds like a grinding of skins against each other.
 
-"You idiot, this is Ringfinger! It's Purge's mate you damn fool. Go do something useful!" a new voice said. The first voice grumbled, but disappeared into the ether. "What are you _doing_ here Ringfinger? I thought you was in the Military-Wing?"
+"You idiot, this is Ringfinger! It's Purge's mate you damn fool. Go do something useful!" a new voice said. The first voice grumbled, but disappeared into the ether. "What are you _doing_ here Ringfinger? I thought you was in the Military-Wing!"
 
 "I _was_ in the Military-Wing. Something's come up, something Purge is gonna wanna see with her own eyes."
 
@@ -254,7 +252,7 @@ There was the sound of someone else approaching the two Shk, followed by what so
 
 "Right, I'll see to it."
 
-Ruslan redoubled their efforts to try and wake Wenjie up. But no matter how much they tried, she simply didn't respond. The Vampsuit seemed to think that all was normal (given the parameters of 'nothing had changed since her last status change').
+Ruslan detached themselves from the audio-processor and redoubled their efforts to try and wake Wenjie up. But no matter how much they tried, she simply didn't respond. The Vampsuit seemed to think that all was normal (given the parameters of 'nothing had changed since her last status change').
 
 Ruslan finally decided to look up in a dictionary what 'Comatose' meant in the context of Human biology.
 
