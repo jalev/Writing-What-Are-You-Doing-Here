@@ -15,5 +15,8 @@
   - [Chapter 12: Interlude; Bounty](part_one/chapter_012.md)
   - [Chapter 13: Snap](part_one/chapter_013.md)
   - [Chapter 14: Escape](part_one/chapter_014.md)
+- [Part Two](part_two/README.md)
+  - [Chapter 15: Rivers Gets into Twohorn's Confidence](part_two/chapter_015.md)
+  - [Chapter 16: Ruslan dreams](part_two/chapter_016.md)
 - [Notes](notes/README.md)
   - [Misc](notes/README.md)
